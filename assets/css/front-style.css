@@ -1,0 +1,26 @@
+.mdwc-midnight-deal-product {
+    position: relative;
+}
+
+.mdwc-midnight-deals-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #f44336;
+    color: #fff;
+    padding: 7px 12px;
+    border-radius: 0;
+    border: none;
+}
+
+.mdwc-midnight-deal-product-page {
+    background: #f44336;
+    padding: 7px 10px;
+    margin-bottom: 15px;
+    color: #fff;
+    border-radius: 6px;
+}
+
+.mdwc-midnight-deal-product-page p {
+    margin: 0;
+}
